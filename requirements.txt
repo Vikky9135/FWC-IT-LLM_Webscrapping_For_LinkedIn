@@ -1,0 +1,7 @@
+requests
+langchain
+black
+openai
+google-search-results
+tweepy
+flask
